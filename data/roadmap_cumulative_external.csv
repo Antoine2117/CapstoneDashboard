@@ -1,0 +1,17 @@
+step,feature_added,cumulative_median_lift_pct,cumulative_mean_lift_pct
+1,lex_score,26.1,31.6
+2,log_chars,49.0,52.0
+3,mention_count,57.6,62.2
+4,i_density,65.5,70.3
+5,bold_unicode,70.3,78.3
+6,has_link,74.4,87.6
+7,type_text,76.3,88.8
+8,you_density,76.2,89.0
+9,first_line_words,76.3,89.0
+10,business_hour,76.3,89.0
+11,avg_line_words,78.1,94.0
+12,hashtag_count,77.5,93.4
+13,weekday,77.6,93.8
+14,has_question,74.8,91.3
+15,we_density,72.0,89.0
+16,type_video,72.0,75.3
