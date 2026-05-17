@@ -1,0 +1,14 @@
+inferred_company,n_unique_employees,n_total_reactions,avg_reactions_per_employee,confidence_tier,matched_client,matched_sector,account_type
+Azadea Group,47,91,1.9,High (Gartner threshold: 6-10 decision-makers),Azadea,Retail / Luxury,Existing Phi client (expansion)
+Gray Mackenzie Retail Lebanon,5,7,1.4,Medium-High (Influ2 mid-market median),Gray Mackenzie,Retail / Luxury,Existing Phi client (expansion)
+KPMG,5,13,2.6,Medium-High (Influ2 mid-market median),KPMG,Consultancies,Existing Phi client (expansion)
+Rotana Hotel Management Corporation PJSC,5,14,2.8,Medium-High (Influ2 mid-market median),Rotana,Hospitality,Existing Phi client (expansion)
+Kempinski Hotels,4,9,2.2,Early signal (3-4 employees engaged),,,Net-new account
+Mövenpick Hotels & Resorts,4,15,3.8,Early signal (3-4 employees engaged),Mövenpick,Hospitality,Existing Phi client (expansion)
+Kempinski Summerland Hotel & Resort Beirut,4,16,4.0,Early signal (3-4 employees engaged),,,Net-new account
+InterContinental Hotels Group (IHG®),3,60,20.0,Early signal (3-4 employees engaged),InterContinental,Hospitality,Existing Phi client (expansion)
+Massimo Dutti,3,3,1.0,Early signal (3-4 employees engaged),,,Net-new account
+Murex,3,15,5.0,Early signal (3-4 employees engaged),Murex,Tech / Software,Existing Phi client (expansion)
+Saint Joseph University of Beirut,3,4,1.3,Early signal (3-4 employees engaged),,,Net-new account
+Scale,3,4,1.3,Early signal (3-4 employees engaged),,,Net-new account
+Self Employed,3,35,11.7,Early signal (3-4 employees engaged),,,Net-new account
